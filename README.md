@@ -1,7 +1,7 @@
 ## Lottery 4D
 This is a decentralized 4D lottery, where random 4 digit numbers will be picked using Chainlink's VRF.  Players are able to submit numbers from 0 - 9999, and if the number matches the prize number, the player will receive a prize according to the prize pool. A countdown of 24 hours will be initiated to pick the prize numbers will when the first player submits a number.
 
-###Distribution of prize:
+### Distribution of prize:
 First Prize : 70% of total prize pool
 
 Second Prize : 20% of total prize pool
